@@ -1,9 +1,9 @@
 module.exports = {
   content: [
     "./public/index.html",
-    "./public/header.html",  // Ruta al HTML
-    "./public/home.html",  // Ruta al HTML
-    "./src/**/*.{js,jsx,ts,tsx}",  // Rutas a tus archivos JS/TS si los tienes
+    "./public/header.html",  
+    "./public/home.html",  
+    "./src/**/*.{js,jsx,ts,tsx}",  
   ],
   theme: {
     extend: {
